@@ -73,6 +73,5 @@ From this project, I learned how to:
 
 ## 🧑‍💻 Author  
 **Ganesh R**  
-*(Junior AI/ML Engineer – Trainee)*  
-📅 *Task 2: Exploratory Data Analysis (EDA)*  
-🏢 *6S Consulting Training Project*  
+*(Junior AI/ML Engineer Trainee)*  
+
